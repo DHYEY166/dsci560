@@ -1,0 +1,83 @@
+commit 63e898647934ef9488ed189d7ecbe36ceffc843d
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Tue Sep 2 00:53:09 2025 -0700
+
+    docs: update README with latest instructions
+
+commit 758624d6f28696cd9cee660d5a079572b38241ed
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Tue Sep 2 00:52:42 2025 -0700
+
+    docs: update README with latest instructions
+
+commit 9a5a7a6f5339256426aeede59dfa1662b82e9915
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Tue Sep 2 00:44:37 2025 -0700
+
+    (lab1): update web_data.html after rerunning scraper
+
+commit 3e9adeea808fa3c5490c9f10b1da72e8ec435f8b
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 23:47:46 2025 -0700
+
+    docs(lab1): add report screenshot
+
+commit 3086c37efb90e07c23f71e8af1095f3d4d2d27c3
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 23:47:21 2025 -0700
+
+    docs(lab1): add report screenshot
+
+commit 1e6110874363657f48f27c2acf951aa24de67bb8
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 23:27:38 2025 -0700
+
+    docs(lab1): add report screenshot
+
+commit 88a7e241981e7792ae12d44f759471035a619863
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 23:22:32 2025 -0700
+
+    (lab1): add report screenshot
+
+commit 06d78db09d1c0f24641528abb4809bc93f91780f
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 23:01:47 2025 -0700
+
+    (lab1): images
+
+commit 23478a71ff6352a0b45711d35b245889de03eb52
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 22:52:32 2025 -0700
+
+    (lab1): filter web_data.html into market_data.csv and news_data.csv; add robust selectors and console messages
+
+commit 2f1e47f46380b378b3219245f30a10928ab09154
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 22:39:17 2025 -0700
+
+    (lab1): add web_scraper.py and saved web_data.html
+
+commit afa1a3a413561897b9c4f6680f122264be425b5e
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 22:16:16 2025 -0700
+
+    (lab1): add requirements.txt with requests and beautifulsoup4
+
+commit 392c635a7ad097ca92b4dc8700b70cf81efafbd0
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 22:13:58 2025 -0700
+
+    (lab1): implement greeting script task_1.py
+
+commit 5a2cf73398e22a6271c41b5d871cf7c1906565d3
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 22:10:36 2025 -0700
+
+    (lab1): add personal folder and empty task_1.py
+
+commit 4de6d007adc90a759f118b653ecad5be2d7e2922
+Author: DHYEY166 <dhyeydes@usc.edu>
+Date:   Mon Sep 1 21:47:34 2025 -0700
+
+    Initialize DSCI560 repo with lab1 skeleton (.gitkeep, .gitignore, README)
